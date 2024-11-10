@@ -1,3 +1,0 @@
-module product {
-    exports product;
-}
